@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5474-1F15
+
+ Directory of C:\programs1
+
+2020-06-06  03:01 AM    <DIR>          .
+2020-06-06  03:01 AM    <DIR>          ..
+2020-06-06  02:46 AM               870 add.class
+2020-06-05  09:11 PM               170 first.java
+2020-06-06  02:58 AM               430 index.html
+2020-06-06  03:01 AM                 0 read.txt
+               4 File(s)          1,470 bytes
+               2 Dir(s)  35,408,568,320 bytes free
